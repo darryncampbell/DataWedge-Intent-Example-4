@@ -1,3 +1,5 @@
+## This repository is out of date - please refer to the updated 'getting started' guide at [https://github.com/darryncampbell/DataWedge-GettingStarted-Samples](https://github.com/darryncampbell/DataWedge-GettingStarted-Samples) 
+
 # DataWedge-Intent-Example-4
 
 This application shows how to configure the DataWedge service through the DataWedge API on a Zebra mobile device with a *Xamarin application*.  Compare this with the [Android equivalent](https://github.com/darryncampbell/DataWedge-Intent-Example-2) of this example.
